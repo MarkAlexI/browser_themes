@@ -1,0 +1,19 @@
+{
+  "name": "Galactic Focus",
+  "manifest_version": 2,
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "galactic_focus.jpg"
+    },
+    "colors": {
+      "frame": "rgba(10, 10, 50, 0.9)",
+      "tab_background_text": "rgba(220, 220, 255, 0.95)",
+      "toolbar": "rgba(15, 15, 60, 0.85)",
+      "bookmark_text": "rgba(235, 235, 255, 0.95)",
+      "toolbar_field": "rgba(20, 20, 70, 0.9)",
+      "toolbar_field_text": "rgba(240, 240, 255, 1)",
+      "tab_line": "rgba(45, 45, 100, 1)"
+    }
+  }
+}
