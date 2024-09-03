@@ -1,10 +1,10 @@
 {
   "name": "Galactic Focus",
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "theme": {
     "images": {
-      "theme_frame": "galactic_focus.jpg"
+      "theme_frame": "galactic_focus_wide.jpg"
     },
     "colors": {
       "frame": "rgba(10, 10, 50, 0.9)",
