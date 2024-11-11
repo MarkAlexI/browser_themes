@@ -1,0 +1,27 @@
+{
+  "name": "Light Beyond the Horizon",
+  "version": "1.0",
+  "description": "This theme immerses you in a surreal landscape of distant mountain peaks bathed in soft light, with a cosmic backdrop that hints at the vastness of the universe. The gentle glow on the horizon adds a sense of mystery and tranquility, ideal for late-night browsing or moments of quiet reflection. A perfect balance of dark tones with subtle highlights makes it easy on the eyes while adding depth and intrigue to your browser.",
+  "manifest_version": 3,
+  "theme": {
+    "images": {
+      "theme_frame": "images\/theme_frame.png",
+      "theme_toolbar": "images\/theme_toolbar.png",
+      "theme_tab_background": "images\/theme_tab_background.png",
+      "theme_ntp_background": "images\/theme_ntp_background.jpeg"
+    },
+    "colors": {
+      "frame": [30, 35, 37],
+      "toolbar": [189, 140, 102],
+      "tab_text": [30, 35, 37],
+      "tab_background_text": [189, 140, 102],
+      "bookmark_text": [30, 35, 37],
+      "ntp_background": [255, 255, 255],
+      "ntp_text": [50, 50, 50],
+      "ntp_link": [6, 55, 116],
+      "button_background": [0, 0, 0, 0]
+    },
+    "tints": { "buttons": [0.55, 0.1, 0.13] },
+    "properties": { "ntp_background_alignment": "bottom", "ntp_background_repeat": "no-repeat" }
+  }
+}
