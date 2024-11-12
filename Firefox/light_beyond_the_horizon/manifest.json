@@ -1,10 +1,10 @@
 {
   "name": "Light Beyond the Horizon",
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "theme": {
     "images": {
-      "theme_frame": "light_beyond_the_horizon.jpg"
+      "theme_frame": "light_beyond_the_horizon_wide.jpg"
     },
     "colors": {
       "frame": "rgba(30, 35, 37, 0.9)",
