@@ -1,17 +1,17 @@
 {
   "name": "Light Beyond the Horizon",
   "manifest_version": 2,
-  "version": "1.1",
+  "version": "3.0",
   "theme": {
     "images": {
       "theme_frame": "light_beyond_the_horizon_wide.jpg"
     },
     "colors": {
-      "frame": "rgba(30, 35, 37, 0.9)",
+      "frame": "rgba(30, 35, 37, 1)",
       "tab_background_text": "rgba(189, 140, 102, 0.95)",
       "toolbar": "rgba(189, 140, 102, 0.75)",
-      "bookmark_text": "rgba(20, 35, 37, 0.95)",
-      "toolbar_field": "rgba(255, 255, 255, 0.8)",
+      "bookmark_text": "rgba(20, 35, 37, 1)",
+      "toolbar_field": "rgba(255, 255, 255, 0.75)",
       "toolbar_field_text": "rgba(50, 50, 50, 1)",
       "tab_line": "rgba(6, 55, 116, 1)"
     }
