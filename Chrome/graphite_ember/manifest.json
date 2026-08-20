@@ -1,0 +1,49 @@
+{
+  "manifest_version": 3,
+  "name": "Graphite Ember",
+  "version": "1.0.0",
+  "description": "A calm graphite browser theme with warm copper accents, designed for focus and long browsing sessions.",
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [20, 25, 31],
+      "frame_inactive": [24, 29, 35],
+      "frame_incognito": [30, 27, 34],
+      "frame_incognito_inactive": [25, 23, 28],
+      "background_tab": [18, 23, 29],
+      "background_tab_inactive": [22, 27, 33],
+      "background_tab_incognito": [24, 22, 28],
+      "background_tab_incognito_inactive": [22, 20, 25],
+      "tab_text": [241, 238, 232],
+      "tab_background_text": [180, 186, 193],
+      "tab_background_text_inactive": [151, 158, 166],
+      "tab_background_text_incognito": [196, 190, 202],
+      "tab_background_text_incognito_inactive": [157, 151, 163],
+      "toolbar": [37, 44, 52],
+      "toolbar_text": [241, 238, 232],
+      "toolbar_button_icon": [225, 228, 230],
+      "bookmark_text": [225, 228, 230],
+      "button_background": [37, 44, 52],
+      "omnibox_background": [15, 20, 25],
+      "omnibox_text": [241, 238, 232],
+      "ntp_background": [13, 17, 21],
+      "ntp_text": [241, 238, 232],
+      "ntp_link": [215, 154, 85],
+      "ntp_header": [167, 176, 186]
+    },
+    "properties": {
+      "ntp_background_alignment": "right bottom",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}

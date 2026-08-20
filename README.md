@@ -16,6 +16,12 @@
   - [Firefox Add-ons Store](https://addons.mozilla.org/uk/firefox/addon/galactic-focus/)  
   - [Chrome Web Store](https://chromewebstore.google.com/detail/galactic-focus/jompandmbfkpoecaemekmbnmkcfikjgi)
 
+### 3. [Graphite Ember](https://ext.pp.ua/)
+- **Description:** A calm graphite browser theme with warm copper accents, designed for focus and long browsing sessions.
+- **Download:**  
+  - [Firefox Add-ons Store](https://addons.mozilla.org/uk/firefox/addon/graphite-ember/)  
+  - [Chrome Web Store](https://chromewebstore.google.com/detail/nainpibbpgmfghohpledmnglcllindhc/)
+
 ## Support
 
 For more details and updates, visit the support pages:  
