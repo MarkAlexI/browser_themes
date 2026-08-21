@@ -1,0 +1,68 @@
+{
+  "manifest_version": 3,
+  "name": "Graphite Ember",
+  "version": "1.0.0",
+  "description": "A calm graphite browser theme with warm copper accents, designed for focus and long browsing sessions.",
+  "author": "Oleksandr Markov",
+  "icons": {
+    "48": "images/icon48.png",
+    "96": "images/icon96.png",
+    "128": "images/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "graphite-ember@markdigital.cc",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png"
+    },
+    "colors": {
+      "frame": "#14191F",
+      "frame_inactive": "#181D23",
+      "tab_background_text": "#B4BAC1",
+      "tab_selected": "#252C34",
+      "tab_text": "#F1EEE8",
+      "tab_line": "#D79A55",
+      "tab_loading": "#D79A55",
+      "toolbar": "#252C34",
+      "toolbar_text": "#F1EEE8",
+      "toolbar_field": "#0F1419",
+      "toolbar_field_text": "#E7E9EA",
+      "toolbar_field_border": "#3A444E",
+      "toolbar_field_focus": "#12181E",
+      "toolbar_field_text_focus": "#F1EEE8",
+      "toolbar_field_border_focus": "#D79A55",
+      "toolbar_field_highlight": "#D79A55",
+      "toolbar_field_highlight_text": "#14191F",
+      "toolbar_top_separator": "#343C45",
+      "toolbar_bottom_separator": "#0B0F13",
+      "toolbar_vertical_separator": "#4A535C",
+      "icons": "#E1E4E6",
+      "icons_attention": "#D79A55",
+      "button_background_hover": "rgba(215, 154, 85, 0.16)",
+      "button_background_active": "rgba(215, 154, 85, 0.28)",
+      "popup": "#20272E",
+      "popup_text": "#F1EEE8",
+      "popup_border": "#3A444E",
+      "popup_highlight": "#3B3025",
+      "popup_highlight_text": "#F7E6CF",
+      "sidebar": "#1B2229",
+      "sidebar_text": "#E7E9EA",
+      "sidebar_border": "#343C45",
+      "sidebar_highlight": "#3B3025",
+      "sidebar_highlight_text": "#F7E6CF",
+      "ntp_background": "#0D1115",
+      "ntp_card_background": "#20272E",
+      "ntp_text": "#F1EEE8"
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "system"
+    }
+  }
+}
