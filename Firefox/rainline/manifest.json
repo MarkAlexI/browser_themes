@@ -1,0 +1,68 @@
+{
+  "manifest_version": 3,
+  "name": "Rainline",
+  "version": "1.0.0",
+  "description": "A quiet midnight rain theme with deep navy surfaces and restrained cyan-blue light, designed for focus and clear browser controls.",
+  "author": "MarkAlexI",
+  "icons": {
+    "48": "images/icon48.png",
+    "96": "images/icon96.png",
+    "128": "images/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "rainline@markdigital.cc",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png"
+    },
+    "colors": {
+      "frame": "#0C161D",
+      "frame_inactive": "#101B23",
+      "tab_background_text": "#B1C4C9",
+      "tab_selected": "#1B2933",
+      "tab_text": "#EDF5F6",
+      "tab_line": "#5DAFBE",
+      "tab_loading": "#5DAFBE",
+      "toolbar": "#1B2933",
+      "toolbar_text": "#EDF5F6",
+      "toolbar_field": "#081015",
+      "toolbar_field_text": "#E3EEF0",
+      "toolbar_field_border": "#354B56",
+      "toolbar_field_focus": "#0A151B",
+      "toolbar_field_text_focus": "#EDF5F6",
+      "toolbar_field_border_focus": "#5DAFBE",
+      "toolbar_field_highlight": "#5DAFBE",
+      "toolbar_field_highlight_text": "#061015",
+      "toolbar_top_separator": "#2E414B",
+      "toolbar_bottom_separator": "#050B0F",
+      "toolbar_vertical_separator": "#435963",
+      "icons": "#DCE8EA",
+      "icons_attention": "#6DC4D1",
+      "button_background_hover": "rgba(93, 175, 190, 0.16)",
+      "button_background_active": "rgba(93, 175, 190, 0.28)",
+      "popup": "#17242C",
+      "popup_text": "#EDF5F6",
+      "popup_border": "#354B56",
+      "popup_highlight": "#183A42",
+      "popup_highlight_text": "#DFF7FA",
+      "sidebar": "#132029",
+      "sidebar_text": "#E3EEF0",
+      "sidebar_border": "#2E414B",
+      "sidebar_highlight": "#183A42",
+      "sidebar_highlight_text": "#DFF7FA",
+      "ntp_background": "#060E13",
+      "ntp_card_background": "#17242C",
+      "ntp_text": "#EDF5F6"
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "system"
+    }
+  }
+}
