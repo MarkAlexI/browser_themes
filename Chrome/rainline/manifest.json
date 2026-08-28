@@ -1,0 +1,50 @@
+{
+  "manifest_version": 3,
+  "name": "Rainline",
+  "version": "1.0.0",
+  "description": "A quiet midnight rain theme with deep navy surfaces and restrained cyan-blue light, designed for focus and clear browser controls.",
+  "author": "MarkAlexI",
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [12, 22, 29],
+      "frame_inactive": [16, 27, 35],
+      "frame_incognito": [18, 24, 33],
+      "frame_incognito_inactive": [15, 21, 29],
+      "background_tab": [10, 19, 25],
+      "background_tab_inactive": [15, 26, 33],
+      "background_tab_incognito": [16, 22, 30],
+      "background_tab_incognito_inactive": [14, 20, 27],
+      "tab_text": [237, 245, 246],
+      "tab_background_text": [177, 196, 201],
+      "tab_background_text_inactive": [145, 164, 170],
+      "tab_background_text_incognito": [190, 207, 211],
+      "tab_background_text_incognito_inactive": [151, 169, 175],
+      "toolbar": [27, 41, 51],
+      "toolbar_text": [237, 245, 246],
+      "toolbar_button_icon": [220, 232, 234],
+      "bookmark_text": [220, 232, 234],
+      "button_background": [27, 41, 51],
+      "omnibox_background": [8, 16, 21],
+      "omnibox_text": [237, 245, 246],
+      "ntp_background": [6, 14, 19],
+      "ntp_text": [237, 245, 246],
+      "ntp_link": [93, 175, 190],
+      "ntp_header": [166, 186, 191]
+    },
+    "properties": {
+      "ntp_background_alignment": "right bottom",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}
