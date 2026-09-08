@@ -1,0 +1,68 @@
+{
+  "manifest_version": 3,
+  "name": "Paper Atlas",
+  "version": "1.0.0",
+  "description": "A warm paper theme with quiet cartographic lines, faded ink and a restrained terracotta route, designed for clear, calm browsing.",
+  "author": "MarkAlexI",
+  "icons": {
+    "48": "images/icon48.png",
+    "96": "images/icon96.png",
+    "128": "images/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "paper-atlas@markdigital.cc",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png"
+    },
+    "colors": {
+      "frame": "#DCD1BC",
+      "frame_inactive": "#D3C9B7",
+      "tab_background_text": "#3E4E52",
+      "tab_selected": "#F4EEE1",
+      "tab_text": "#233033",
+      "tab_line": "#A45F46",
+      "tab_loading": "#A45F46",
+      "toolbar": "#F4EEE1",
+      "toolbar_text": "#233033",
+      "toolbar_field": "#FFFDF7",
+      "toolbar_field_text": "#213033",
+      "toolbar_field_border": "#B9AA8C",
+      "toolbar_field_focus": "#FFFDF9",
+      "toolbar_field_text_focus": "#213033",
+      "toolbar_field_border_focus": "#536F75",
+      "toolbar_field_highlight": "#536F75",
+      "toolbar_field_highlight_text": "#FAF7EE",
+      "toolbar_top_separator": "#C9B99B",
+      "toolbar_bottom_separator": "#AFA084",
+      "toolbar_vertical_separator": "#B9AA8C",
+      "icons": "#45585C",
+      "icons_attention": "#A45F46",
+      "button_background_hover": "rgba(83, 111, 117, 0.12)",
+      "button_background_active": "rgba(83, 111, 117, 0.22)",
+      "popup": "#F8F2E6",
+      "popup_text": "#263437",
+      "popup_border": "#C9B99B",
+      "popup_highlight": "#E6D7C1",
+      "popup_highlight_text": "#243237",
+      "sidebar": "#EFE6D6",
+      "sidebar_text": "#263437",
+      "sidebar_border": "#C9B99B",
+      "sidebar_highlight": "#E6D7C1",
+      "sidebar_highlight_text": "#243237",
+      "ntp_background": "#E8DFCB",
+      "ntp_card_background": "#F8F2E6",
+      "ntp_text": "#243236"
+    },
+    "properties": {
+      "color_scheme": "light",
+      "content_color_scheme": "system"
+    }
+  }
+}
