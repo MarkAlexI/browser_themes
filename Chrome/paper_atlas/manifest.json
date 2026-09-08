@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "Paper Atlas",
+  "version": "1.0.0",
+  "description": "A warm paper theme with quiet cartographic lines, faded ink and a restrained terracotta route, designed for clear, calm browsing.",
+  "author": "MarkAlexI",
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_inactive": "images/theme_frame_inactive.png",
+      "theme_frame_incognito": "images/theme_frame_incognito.png",
+      "theme_frame_incognito_inactive": "images/theme_frame_incognito_inactive.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [220, 209, 188],
+      "frame_inactive": [211, 201, 183],
+      "frame_incognito": [47, 59, 62],
+      "frame_incognito_inactive": [42, 52, 55],
+      "background_tab": [218, 208, 189],
+      "background_tab_inactive": [211, 201, 183],
+      "background_tab_incognito": [42, 53, 56],
+      "background_tab_incognito_inactive": [38, 48, 51],
+      "tab_text": [35, 48, 51],
+      "tab_background_text": [62, 78, 82],
+      "tab_background_text_inactive": [62, 78, 82],
+      "tab_background_text_incognito": [239, 243, 242],
+      "tab_background_text_incognito_inactive": [190, 201, 201],
+      "toolbar": [244, 238, 225],
+      "toolbar_text": [35, 48, 51],
+      "toolbar_button_icon": [69, 88, 92],
+      "bookmark_text": [50, 67, 70],
+      "button_background": [244, 238, 225],
+      "omnibox_background": [255, 253, 247],
+      "omnibox_text": [33, 48, 51],
+      "ntp_background": [232, 223, 203],
+      "ntp_text": [36, 50, 54],
+      "ntp_link": [135, 69, 47],
+      "ntp_header": [72, 91, 95]
+    },
+    "properties": {
+      "ntp_background_alignment": "right bottom",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 0
+    }
+  }
+}
