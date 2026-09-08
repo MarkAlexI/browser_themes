@@ -16,17 +16,32 @@
   - [Firefox Add-ons Store](https://addons.mozilla.org/uk/firefox/addon/galactic-focus/)  
   - [Chrome Web Store](https://chromewebstore.google.com/detail/galactic-focus/jompandmbfkpoecaemekmbnmkcfikjgi)
 
-### 3. [Graphite Ember](https://ext.pp.ua/)
+### 3. [Graphite Ember](https://ext.pp.ua/graphite-ember.html)
 - **Description:** A calm graphite browser theme with warm copper accents, designed for focus and long browsing sessions.
 - **Download:**  
   - [Firefox Add-ons Store](https://addons.mozilla.org/uk/firefox/addon/graphite-ember/)  
   - [Chrome Web Store](https://chromewebstore.google.com/detail/nainpibbpgmfghohpledmnglcllindhc/)
 
+### 4. [Rainline](https://ext.pp.ua/rainline.html)
+- **Description:** A quiet midnight rain theme with deep navy surfaces and restrained cyan-blue light, designed for focus and clear browser controls.
+- **Download:**  
+  - [Firefox Add-ons Store](https://addons.mozilla.org/uk/firefox/addon/rainline/)  
+  - [Chrome Web Store](https://chromewebstore.google.com/detail/rainline/iciihloenkpkolcpilfajdofbfeohieb)
+
+### 5. [Paper Atlas](https://ext.pp.ua/paper-atlas.html)
+- **Description:** A warm paper theme with quiet cartographic lines, faded ink and a restrained terracotta route, designed for clear, calm browsing.
+- **Download:**  
+  - [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/paper-atlas/)  
+  - [Chrome Web Store](https://chromewebstore.google.com/detail/paper-atlas/pmjodfblfobhmkidgecjncdcgnncjgoh)
+
 ## Support
 
 For more details and updates, visit the support pages:  
-- [Light Beyond the Horizon](https://ext.pp.ua/light-beyond-the-horizon.html)  
+- [Light Beyond the Horizon](https://ext.pp.ua/light-beyond-the-horizon.html)
 - [Galactic Focus](https://ext.pp.ua/galactic-focus.html)
+- [Graphite Ember](https://ext.pp.ua/graphite-ember.html)
+- [Rainline](https://ext.pp.ua/rainline.html)
+[Paper Atlas](https://ext.pp.ua/paper-atlas.html)
 
 ## Contributing
 
