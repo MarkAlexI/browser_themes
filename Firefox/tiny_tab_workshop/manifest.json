@@ -1,0 +1,68 @@
+{
+  "manifest_version": 3,
+  "name": "Tiny Tab Workshop",
+  "version": "1.0.0",
+  "description": "A playful miniature workshop where tiny wind-up mechanics service your tabs, with warm tin-toy colors and clear controls.",
+  "author": "MarkAlexI",
+  "icons": {
+    "48": "images/icon48.png",
+    "96": "images/icon96.png",
+    "128": "images/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "tiny-tab-workshop@markalexi.com",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png"
+    },
+    "colors": {
+      "frame": "#102F33",
+      "frame_inactive": "#14373A",
+      "tab_background_text": "#F2E6C9",
+      "tab_selected": "#E8D7B3",
+      "tab_text": "#283335",
+      "tab_line": "#C8553D",
+      "tab_loading": "#D7A64A",
+      "toolbar": "#E8D7B3",
+      "toolbar_text": "#283335",
+      "toolbar_field": "#F8F0DD",
+      "toolbar_field_text": "#243335",
+      "toolbar_field_border": "#9A8055",
+      "toolbar_field_focus": "#FFF7E8",
+      "toolbar_field_text_focus": "#243335",
+      "toolbar_field_border_focus": "#C8553D",
+      "toolbar_field_highlight": "#D7A64A",
+      "toolbar_field_highlight_text": "#1C2B2D",
+      "toolbar_top_separator": "#B89A67",
+      "toolbar_bottom_separator": "#806A48",
+      "toolbar_vertical_separator": "#B89A67",
+      "icons": "#36484A",
+      "icons_attention": "#C8553D",
+      "button_background_hover": "rgba(16, 47, 51, 0.12)",
+      "button_background_active": "rgba(16, 47, 51, 0.22)",
+      "popup": "#F2E6C9",
+      "popup_text": "#263638",
+      "popup_border": "#B69D71",
+      "popup_highlight": "#E2C784",
+      "popup_highlight_text": "#263638",
+      "sidebar": "#EADBBE",
+      "sidebar_text": "#263638",
+      "sidebar_border": "#B69D71",
+      "sidebar_highlight": "#E2C784",
+      "sidebar_highlight_text": "#263638",
+      "ntp_background": "#102F33",
+      "ntp_card_background": "#173E43",
+      "ntp_text": "#F2E6C9"
+    },
+    "properties": {
+      "color_scheme": "light",
+      "content_color_scheme": "dark"
+    }
+  }
+}
