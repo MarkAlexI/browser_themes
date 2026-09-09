@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "Tiny Tab Workshop",
+  "version": "1.0.0",
+  "description": "A playful miniature workshop where tiny wind-up mechanics service your tabs, with warm tin-toy colors and clear controls.",
+  "author": "MarkAlexI",
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_inactive": "images/theme_frame_inactive.png",
+      "theme_frame_incognito": "images/theme_frame_incognito.png",
+      "theme_frame_incognito_inactive": "images/theme_frame_incognito_inactive.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [16, 47, 51],
+      "frame_inactive": [20, 55, 58],
+      "frame_incognito": [32, 33, 51],
+      "frame_incognito_inactive": [26, 27, 43],
+      "background_tab": [13, 41, 44],
+      "background_tab_inactive": [20, 56, 59],
+      "background_tab_incognito": [28, 29, 46],
+      "background_tab_incognito_inactive": [24, 25, 39],
+      "tab_text": [40, 51, 53],
+      "tab_background_text": [242, 230, 201],
+      "tab_background_text_inactive": [205, 191, 159],
+      "tab_background_text_incognito": [242, 230, 201],
+      "tab_background_text_incognito_inactive": [204, 190, 160],
+      "toolbar": [232, 215, 179],
+      "toolbar_text": [40, 51, 53],
+      "toolbar_button_icon": [54, 72, 74],
+      "bookmark_text": [51, 70, 72],
+      "button_background": [232, 215, 179],
+      "omnibox_background": [248, 240, 221],
+      "omnibox_text": [36, 51, 53],
+      "ntp_background": [16, 47, 51],
+      "ntp_text": [244, 232, 206],
+      "ntp_link": [225, 179, 91],
+      "ntp_header": [211, 196, 163]
+    },
+    "properties": {
+      "ntp_background_alignment": "right bottom",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}
