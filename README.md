@@ -34,6 +34,12 @@
   - [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/paper-atlas/)  
   - [Chrome Web Store](https://chromewebstore.google.com/detail/paper-atlas/pmjodfblfobhmkidgecjncdcgnncjgoh)
 
+### 6. [Tiny Tab Workshop](https://ext.pp.ua/tiny-tab-workshop.html)
+- **Description:** Tiny Tab Workshop turns your browser into a miniature hand-painted repair shop. It treats the browser frame as a collectible mechanical toy while keeping tabs, labels and controls easy to read.
+- **Download:**  
+  - [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/tiny-tab-workshop/)  
+  - [Chrome Web Store](https://chromewebstore.google.com/detail/tiny-tab-workshop/fciekhgkhchdcoodijdcfklhbgnjgkhl)
+
 ## Support
 
 For more details and updates, visit the support pages:  
@@ -41,7 +47,8 @@ For more details and updates, visit the support pages:
 - [Galactic Focus](https://ext.pp.ua/galactic-focus.html)
 - [Graphite Ember](https://ext.pp.ua/graphite-ember.html)
 - [Rainline](https://ext.pp.ua/rainline.html)
-[Paper Atlas](https://ext.pp.ua/paper-atlas.html)
+- [Paper Atlas](https://ext.pp.ua/paper-atlas.html)
+- [Tiny Tab Workshop](https://ext.pp.ua/tiny-tab-workshop.html)
 
 ## Contributing
 
