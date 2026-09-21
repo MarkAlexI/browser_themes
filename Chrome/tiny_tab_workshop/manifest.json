@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Tiny Tab Workshop",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A playful miniature workshop where tiny wind-up mechanics service your tabs, with warm tin-toy colors and clear controls.",
   "author": "MarkAlexI",
   "icons": {
@@ -28,7 +28,7 @@
       "background_tab_incognito": [28, 29, 46],
       "background_tab_incognito_inactive": [24, 25, 39],
       "tab_text": [40, 51, 53],
-      "tab_background_text": [242, 230, 201],
+      "tab_background_text": [255, 243, 212],
       "tab_background_text_inactive": [205, 191, 159],
       "tab_background_text_incognito": [242, 230, 201],
       "tab_background_text_incognito_inactive": [204, 190, 160],
